@@ -1,3 +1,6 @@
+#include<stdio.h>
+#include<stdlib.h>
+
 int minSubArrayLen(int target, int* nums, int numsSize)
 {
     int min = numsSize;
@@ -18,4 +21,21 @@ int minSubArrayLen(int target, int* nums, int numsSize)
     else
         return min;
     
+}
+
+int main()
+{
+    int target;
+    int num[50000];
+    int numSize = 0;
+    int elements;
+    printf("target:");
+    scanf("%d",&target);
+    printf("numSize:");
+    scanf("%d",&numSize);
+    for(int i = 0; i < numSize; i++)
+        scanf("%d",&num[i]);
+    int minLen = minSubArrayLen(target, num, numSize);
+    printf("minSubArrayLen==%d\n",minLen);
+    return 0;
 }
