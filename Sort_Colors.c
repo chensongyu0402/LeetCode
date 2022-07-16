@@ -65,3 +65,19 @@ void method3(int* nums, int numsSize) // better than method3 because it has less
     }
     
 }
+
+int main()
+{
+    int numsSize;
+    printf("numsSize:");
+    scanf("%d",&numsSize);
+    int num[numsSize];
+    printf("num:");
+    for(int i = 0; i < numsSize; i++)
+        scanf("%d",&num[i]);
+    method3(num, numsSize);
+    printf("sort num:");
+    for(int i = 0; i < numsSize; i++)
+        printf("%d ",num[i]);
+    return 0;
+}
