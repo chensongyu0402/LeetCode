@@ -163,3 +163,7 @@ int countSubstrings(char * s)
 - [hackmd](https://hackmd.io/@Zero871015/LeetCode-49)
 - [C++ map用法总结（整理）](https://blog.csdn.net/sevenjoin/article/details/81943864)
 - [C++ map end() 函数使用方法及示例](https://www.nhooo.com/cpp/cpp-map-end-function.html)
+### 5. Longest Palindromic Substring
+- [hackmd](https://hackmd.io/@YLowy/HyNJkLyVO)
+### 516. Longest Palindromic Subsequence
+- [hackmd](https://hackmd.io/@kenjin/BJ49BNvyL)
