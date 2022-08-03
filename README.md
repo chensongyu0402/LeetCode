@@ -150,7 +150,7 @@ int countSubstrings(char * s)
 - [hackmd](https://hackmd.io/@kenjin/rJwzA6gyB)
 ### 11. Container With Most Water
 - [hackmd](https://hackmd.io/@Zero871015/BJbqwPKs4?type=view)
-### 15. 3Sum(補)
+### 15. 3Sum
 - [hackmd](https://hackmd.io/@kenjin/0015_3Sum)
 ## string
 ### 208. Implement Trie (Prefix Tree)
@@ -159,3 +159,7 @@ int countSubstrings(char * s)
 ### Suffix Tree
 - [演算法知識 - Suffix Tree 後綴樹 (Using Ukkonen Algorithm)](https://theriseofdavid.github.io/2020/11/03/Explain_Algorithm/suffix-tree/)
 - [Generalized Suffix Tree 1](https://www.geeksforgeeks.org/generalized-suffix-tree-1/)
+### 49. Group Anagrams
+- [hackmd](https://hackmd.io/@Zero871015/LeetCode-49)
+- [C++ map用法总结（整理）](https://blog.csdn.net/sevenjoin/article/details/81943864)
+- [C++ map end() 函数使用方法及示例](https://www.nhooo.com/cpp/cpp-map-end-function.html)
