@@ -167,3 +167,7 @@ int countSubstrings(char * s)
 - [hackmd](https://hackmd.io/@YLowy/HyNJkLyVO)
 ### 516. Longest Palindromic Subsequence
 - [hackmd](https://hackmd.io/@kenjin/BJ49BNvyL)
+### 424. Longest Repeating Character Replacement
+- [hackmd](https://hackmd.io/Vtj6bEAlSDKuRTuPWjTUpw)
+### 438. Find All Anagrams in a String
+- [hackmd](https://hackmd.io/@kenjin/BkO3caEGH)
