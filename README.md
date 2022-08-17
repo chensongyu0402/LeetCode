@@ -171,3 +171,8 @@ int countSubstrings(char * s)
 - [hackmd](https://hackmd.io/Vtj6bEAlSDKuRTuPWjTUpw)
 ### 438. Find All Anagrams in a String
 - [hackmd](https://hackmd.io/@kenjin/BkO3caEGH)
+## Dynamic programming
+### 300. Longest Increasing Subsequence
+- [hackmd](https://hackmd.io/@kenjin/H1U-RElR4)
+### 416. Partition Equal Subset Sum
+- [hackmd](https://hackmd.io/@kenjin/HkoDcRtPB)
