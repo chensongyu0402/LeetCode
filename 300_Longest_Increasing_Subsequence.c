@@ -2,8 +2,7 @@
 #include<stdlib.h>
 #define max(a,b) (a > b ? a : b)
 
-/* brute force*/
-int method1(int* nums, int numsSize) {
+int lengthOfLIS(int* nums, int numsSize) {
  
     if (numsSize <= 1)
         return numsSize;
@@ -25,9 +24,4 @@ int method1(int* nums, int numsSize) {
     }
     
     return maxRes;
-}
-
-int lengthOfLIS(int* nums, int numsSize)
-{
-
 }
