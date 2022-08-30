@@ -176,3 +176,11 @@ int countSubstrings(char * s)
 - [hackmd](https://hackmd.io/@kenjin/H1U-RElR4)
 ### 416. Partition Equal Subset Sum
 - [hackmd](https://hackmd.io/@kenjin/HkoDcRtPB)
+### 139. Word Break
+- [hackmd](https://hackmd.io/@kenjin/0139_Word-Break)
+### 213. House Robber II
+- [csdn](https://blog.csdn.net/shen_zhu/article/details/81904706)
+### 91. Decode Ways
+- [hackmd](https://hackmd.io/@kenjin/ry_F0UqxB)
+### 62. Unique Paths
+- [hackmd](https://hackmd.io/@kenjin/0062_unique-path)
