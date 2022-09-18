@@ -195,4 +195,12 @@ int countSubstrings(char * s)
 ### 110. Balanced Binary Tree
 - [GeeksforGeeks](https://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced/)
 - [csdn](https://blog.csdn.net/ds19980228/article/details/82958272)
+### 278. First Bad Version
+- [reference](https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/questions/278md.html)
+### 169. Majority Element
+- [從LeetCode學演算法 - 0169. Majority Element](https://ithelp.ithome.com.tw/articles/10213285)
+### 67. Add Binary
+- [hackmd](https://hackmd.io/@brad84622/mumineverdie)
+### 543. Diameter of Binary Tree
+- [hackmd](https://hackmd.io/@Zero871015/LeetCode-543)
 
