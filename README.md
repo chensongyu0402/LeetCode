@@ -184,3 +184,23 @@ int countSubstrings(char * s)
 - [hackmd](https://hackmd.io/@kenjin/ry_F0UqxB)
 ### 62. Unique Paths
 - [hackmd](https://hackmd.io/@kenjin/0062_unique-path)
+### 55. Jump Game
+- [hackmd](https://hackmd.io/@Zero871015/S1JFXHxaN?type=view)
+
+## other
+### 733. Flood Fill
+- [hackmd](https://hackmd.io/@Zero871015/LeetCode-733)
+### 141. Linked List Cycle
+- [hackmd](https://hackmd.io/@Ji0m0/SJP448Oo4)
+### 110. Balanced Binary Tree
+- [GeeksforGeeks](https://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced/)
+- [csdn](https://blog.csdn.net/ds19980228/article/details/82958272)
+### 278. First Bad Version
+- [reference](https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/questions/278md.html)
+### 169. Majority Element
+- [從LeetCode學演算法 - 0169. Majority Element](https://ithelp.ithome.com.tw/articles/10213285)
+### 67. Add Binary
+- [hackmd](https://hackmd.io/@brad84622/mumineverdie)
+### 543. Diameter of Binary Tree
+- [hackmd](https://hackmd.io/@Zero871015/LeetCode-543)
+
